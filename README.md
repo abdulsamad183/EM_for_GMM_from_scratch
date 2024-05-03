@@ -20,7 +20,7 @@ The Gaussian Mixture Model (GMM) is a probabilistic model that represents the pr
 To use this implementation, simply clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/abdulsamad183/EM_for_GMM_from_scratch.git
 ```
 
 ## Dependencies
